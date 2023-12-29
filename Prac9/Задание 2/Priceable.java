@@ -1,0 +1,3 @@
+interface Priceable{
+    void getPrice();
+}
